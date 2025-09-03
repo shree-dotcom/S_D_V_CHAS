@@ -1,4 +1,6 @@
 # S_D_V_CHAS
 This is my first repository
 <br>
-Author is Ketan Barve
+Author - Ketan Barve 
+<br>
+Our School Name is Sant Dnyaneshwar Vidyalaya Chas
